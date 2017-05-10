@@ -1,0 +1,27 @@
+{
+  "name": "awaitsynccodeintypescript",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rostacik/awaitSyncCodeInTypeScript.git"
+  },
+  "keywords": [
+    "typescript",
+    "await",
+    "async"
+  ],
+  "author": "dusan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rostacik/awaitSyncCodeInTypeScript/issues"
+  },
+  "homepage": "https://github.com/rostacik/awaitSyncCodeInTypeScript#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
